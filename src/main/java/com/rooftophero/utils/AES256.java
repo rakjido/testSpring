@@ -17,7 +17,6 @@ import org.apache.commons.codec.binary.Base64;
 public class AES256 {
 
 	// 32bit만 가능 
-	//static String encryptKey = "KwwySUYRlz24PssqB6WmsqVzhUiLR68y";
 	static String encryptKey = "hiPoQMXqIyQhXCjv9Gx9X1sGGcve4QyP"; 
 	
 	private static String combineKey(String userKey) {
